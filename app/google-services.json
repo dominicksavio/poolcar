@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512640702484",
+    "firebase_url": "https://total-messenger-212312.firebaseio.com",
+    "project_id": "total-messenger-212312",
+    "storage_bucket": "total-messenger-212312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512640702484:android:f166e73ccb1a4958",
+        "android_client_info": {
+          "package_name": "com.batbrains.dominic.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512640702484-o2l9t6alp47koiqg7asf4nod6cqgml1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-pXeoeSF0C_oVNwcE_mdSQ5CzK3NpwF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
